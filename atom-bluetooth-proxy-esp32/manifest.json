@@ -1,0 +1,9 @@
+{
+  "chipFamily": "ESP32",
+  "parts": [
+    {
+      "path": "atom-bluetooth-proxy-esp32/atom-bluetooth-proxy-esp32.bin",
+      "offset": 0
+    }
+  ]
+}
