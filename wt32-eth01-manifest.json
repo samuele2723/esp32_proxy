@@ -1,0 +1,17 @@
+{
+  "name": "Wireless-Tag WT32-ETH01",
+  "version": "",
+  "home_assistant_domain": "esphome",
+  "new_install_skip_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "wt32-eth01-bt-proxy-esp32/wt32-eth01-bt-proxy-esp32.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}

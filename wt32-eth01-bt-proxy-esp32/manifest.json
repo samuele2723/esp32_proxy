@@ -1,0 +1,9 @@
+{
+  "chipFamily": "ESP32",
+  "parts": [
+    {
+      "path": "wt32-eth01-bt-proxy-esp32/wt32-eth01-bt-proxy-esp32.bin",
+      "offset": 0
+    }
+  ]
+}
